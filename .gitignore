@@ -1,0 +1,10 @@
+# Deno Cache directory (when using project-local DENO_DIR)
+.deno/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.vscode/
